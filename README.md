@@ -1,4 +1,4 @@
-﻿# SSH-PLUS-MANAGER V32 TRADUÇÃO PT-BR
+# SSH-PLUS-MANAGER V32 TRADUÇÃO PT-BR
 
 **Script de Gerenciamento**
 
