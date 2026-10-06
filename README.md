@@ -1,4 +1,4 @@
-﻿# ELBARTO-VPN SSH (SSH-PLUS-MANAGER V32)
+# ELBARTO-VPN SSH (SSH-PLUS-MANAGER V32)
 
 **Script de Gerenciamento**
 
@@ -12,8 +12,8 @@
 
 Para instalar ou atualizar o painel para a última versão hospedada neste repositório, rode o seguinte comando no terminal (como root):
 
-`ash
+```bash
 apt-get update -y; apt-get upgrade -y; wget -q https://raw.githubusercontent.com/elbarto1327/SSH-PLUS-MANAGER/main/Plus -O Plus; chmod 777 Plus; ./Plus
-`
+```
 
-> **AVISO IMPORTANTE:** NUNCA utilize a opção [28] ATUALIZAR SCRIPT por dentro do painel da VPS! Essa opção tenta buscar os arquivos no repositório do desenvolvedor original, o que removerá as suas customizações e nomes do painel. Sempre atualize usando o comando acima!
+> **AVISO IMPORTANTE:** NUNCA utilize a opção `[28] ATUALIZAR SCRIPT` por dentro do painel da VPS! Essa opção tenta buscar os arquivos no repositório do desenvolvedor original, o que removerá as suas customizações e nomes do painel. Sempre atualize usando o comando acima!
